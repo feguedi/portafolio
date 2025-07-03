@@ -12,11 +12,11 @@
 
     <div class="social">
       <a href="#" aria-label="GitHub">
-        <img src="github.svg" alt="GitHub" />
+        <img src="/github.svg" alt="GitHub" />
       </a>
 
       <a href="#" aria-label="LinkedIn">
-        <img src="linkedin.svg" alt="LinkedIn" />
+        <img src="/linkedin.svg" alt="LinkedIn" />
       </a>
     </div>
   </section>
