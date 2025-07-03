@@ -50,8 +50,14 @@ nav ul li a:hover {
 
 .hero {
   text-align: center;
+  /*
   margin-top: 3rem;
   margin-bottom: 3rem;
+  */
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  place-content: center;
 }
 
 .hero .highlight {
@@ -78,6 +84,8 @@ nav ul li a:hover {
   text-decoration: none;
   box-shadow: 0 2px 8px rgba(0,0,0,0.06);
   transition: background 0.2s, color 0.2s;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .cta:hover {
